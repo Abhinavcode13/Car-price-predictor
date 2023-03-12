@@ -1,4 +1,4 @@
-# Car Price Predictor
+# Car Price Predictor 🚗
 
 ![demo](https://user-images.githubusercontent.com/126642111/224536419-91d42d36-f08e-4151-925b-49638179280e.png)
 
